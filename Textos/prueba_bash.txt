@@ -1,0 +1,9 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES 
+ ================================= 
+ Autor: Emilio Cruz 
+ Fecha: 23/01/2025 
+ Resultados: 
+8:56 pm Creacion de Log
+9:10 Creación de archivo pares.py
+7:37 Creación de Histograma.py
+8:41 pm Histograma.py
